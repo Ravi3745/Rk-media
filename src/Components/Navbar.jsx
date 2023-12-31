@@ -13,7 +13,7 @@ const Navbar = () => {
           <img src={logo} alt='logo' height={25}/>
 
           <Typography variant='h6' color='white' fontWeight='700' ml={2} sx={{ display: { xs: 'none', md: 'block' } }} >
-            YouTube
+            Rk-Media
           </Typography>
           
       </Link>
